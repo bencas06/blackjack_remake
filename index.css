@@ -1,0 +1,189 @@
+    .Title{
+        font-family:Cursive;
+        font-size: 50px;
+        text-align: center;
+        margin:0px;
+    }
+    
+    .belowtitle{
+        font-family:cursive;
+        font-size: 25px;
+        text-align: center;
+        margin:0px;
+        
+    }
+    body{
+        text-align: center;
+    }
+    
+    .nameTag{
+     background-color:white;
+     border:5px solid black;
+     border-radius:5px;
+     width:600px;
+     margin-left:auto;
+     margin-right:auto; 
+    }
+    
+    .chips{
+        background-color:rgb(255,100,0);
+        color:black;
+        border-radius:100px;
+        height:65px;
+        width:65px;
+        cursor:pointer;
+        border: 2px solid black;
+        margin:0px;
+        
+        
+    }
+    .chips:hover{
+            background-color:rgb(251,163,26);
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+        }
+        
+    .chips1{
+        background-color:rgb(225,225,0);
+        color:black;
+        border-radius:100px;
+        height:65px;
+        width:65px;
+        cursor:pointer;
+        border: 2px solid black;
+        margin:0px;
+    }
+    .chips1:hover{
+            background-color:rgb(255, 240, 31);
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+        }
+    .chips2{
+        background-color:rgb(0,0,225);
+        color:black;
+        border-radius:100px;
+        height:65px;
+        width:65px;
+        cursor:pointer;
+        border: 2px solid black;
+        margin:0px;
+    }
+    .chips2:hover{
+            background-color:blue;
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+        }
+    .chips3{
+        background-color:rgb(0,225,0);
+        color:black;
+        border-radius:100px;
+        height:65px;
+        width:65px;
+        cursor:pointer;
+        border: 2px solid black;
+        margin:0px;
+    }
+    .chips3:hover{
+            background-color:rgb(57,220,20);
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+        }
+    .chips4{
+        background-color:rgb(225,0,0);
+        color:black;
+        border-radius:100px;
+        height:65px;
+        width:65px;
+        cursor:pointer;
+        border: 2px solid black;
+        margin:0px;
+    }    
+    .chips4:hover{
+            background-color:rgb(255,49,49);
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+        }
+        
+    #dealer-cards img{
+        height:150px;
+        width:100px;
+        margin:0px;
+    }
+    
+    #your-cards img{
+        height:150px;
+        width:100px;
+        margin:0px;
+    }
+    
+    #HIT{
+        background-color:rgb(255,255,255);
+        color:black;
+        border-radius:5px;
+        height:30px;
+        width:60px;
+        cursor:pointer;
+        border: 2px solid black;
+    }
+    #hit:hover{
+        background-color:darkgrey;
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+    }
+    
+    #STAY{
+        background-color:rgb(255,255,255);
+        color:black;
+        border-radius:5px;
+        height:30px;
+        width:60px;
+        cursor:pointer;
+        border: 2px solid black;
+    }
+    #STAY:hover{
+        background-color:darkgrey;
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+    }
+    #results{
+        font-family:Cursive;
+        font-size: 50px;
+        text-align: center;
+        margin:0px;
+    }
+    #playagain{
+        background-color:rgb(255,255,255);
+        color:black;
+        border-radius:5px;
+        height:30px;
+        width:95px;
+        cursor:pointer;
+        border: 2px solid black;
+        margin-left:auto;
+        margin-right:auto;
+    }
+    .playagain:hover{
+        background-color:darkgrey;
+            color:rgb(255,255,255);
+            
+            transition:background-color 0.8s,color 0.6s;
+    }
+    
+    .chip{
+        margin-top:20px;
+        margin-bottom:20px; 
+    }
+    #Balance{
+        font-family:Cursive;
+        font-size: 50px;
+        text-align:ltr;
+        margin:0px;
+    }
+    
